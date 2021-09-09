@@ -57,7 +57,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Discussions  
 
-*See [Discussions][MOD:disc] or [KSP Forums][MOD:threads] for discussions and news on this mod*  
+*See [Discussions][MOD:disc] or [KSP Forums][MOD:thread] for discussions and news on this mod*  
 
 ***
 
@@ -125,8 +125,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Supports
 
-- [x]  [Kerbal Change Log][thread:kcl]  
-- [x]  [Stockalike Mining Extension][thread:smx]  
+- [x]  [Kerbal Change Log][thread:kcl]   
 
 ### Conflicts
 
@@ -138,7 +137,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Tags
 
-- addon, resources
+- config, parts, convenience
 
 ***
 
