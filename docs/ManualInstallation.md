@@ -19,7 +19,7 @@ based upon work by Lisias -->
 
 [Home](./index.md)
 
-ModularManagement config script to add a Universal Storage Fuel Cell that can use Liquid Fuel and Oxidizer instead of other resources.
+ModularManagement config script for removing "fun" items from Kerbal Inventory System. For Kerbal Space Program.
 
 ## Installation Instructions
 
