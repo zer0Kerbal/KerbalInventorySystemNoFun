@@ -56,7 +56,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Recommends
 
 * By [QuickBASIC][auth-link]
-  * [Kerbal Inventory System No Fun][QBNF]
+  * [Kerbal Inventory System No Fun (QBNF)][QBNF]
   * [ISRU Thanks But No Tanks (KBTT)][QBTT]
   * [Monero Flags (QBMF)][QBMF]
   * [Kerbal Inventory System No Fun (QBNF)][QBUS]
