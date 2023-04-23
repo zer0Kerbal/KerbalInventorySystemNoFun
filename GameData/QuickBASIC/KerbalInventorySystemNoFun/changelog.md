@@ -20,8 +20,7 @@
 ### Summary 1.0.0.0
 
 * fit and polish for final release
-* update
-  * Hero Logo
+* update Hero Logo
 
 ### Changes 1.0.0.0
 
@@ -40,6 +39,7 @@
   * License: {GPL-2.0}
     * was: {Expat-MIT}
 * Issues
+  * closes #7 - Kerbal Inventory System No Fun (QBNF) 1.0.0.0-release `<Thank you QuickBASIC>` edition
 
 ---
 
