@@ -305,7 +305,7 @@ License: [![License Expat-MIT][LICENSE:shld]][LICENSE:url] [![][LICENSE:logo]][L
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-be%20a%20Patron-FF424D?style=for-the-badge&logo=patreon "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
